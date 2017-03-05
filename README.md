@@ -1,5 +1,6 @@
 # Projects:
 
+- [**Template**] (https://github.com/mugan86/angular-js-2-training-examples/tree/start_template_project)
 - [**Project 1**](https://github.com/mugan86/angular-js-2-training-examples/tree/project1)
 
 # Angular QuickStart Source
